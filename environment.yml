@@ -1,0 +1,12 @@
+name: viz
+channels:
+  - conda-forge
+dependencies:
+  - numpy 
+  - matplotlib
+  - xarray
+  - geoviews
+  - datashader
+  - holoviews
+  - hvplot
+  - cartopy
