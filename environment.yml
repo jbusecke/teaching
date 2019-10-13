@@ -1,4 +1,4 @@
-name: viz
+name: teaching
 channels:
   - conda-forge
 dependencies:
@@ -10,3 +10,4 @@ dependencies:
   - holoviews
   - hvplot
   - cartopy
+  - ipykernel
